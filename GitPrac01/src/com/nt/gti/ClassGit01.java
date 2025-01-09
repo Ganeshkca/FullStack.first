@@ -5,7 +5,6 @@ public class ClassGit01 {
 	{
 		 int a=23;
 		 int b=20;
-		 System.out.println(a-b);
 		 System.out.println(a+b);
 
 	}
